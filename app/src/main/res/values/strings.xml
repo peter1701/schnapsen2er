@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CardAnimationTest</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="playerWon">Du hast gewonnen!</string>
+    <string name="restart">Neustart</string>
+    <string name="zudrehen">Zudrehen</string>
+    <string name="kreuz">Kreuz</string>
+    <string name="pig">Pig</string>
+    <string name="shell">Shell</string>
+    <string name="herz">Herz</string>
+</resources>
